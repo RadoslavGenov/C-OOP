@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\AgeRange\bin\Debug\AgeRange.exe.config
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\AgeRange\bin\Debug\AgeRange.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\AgeRange\bin\Debug\AgeRange.pdb
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\AgeRange\obj\Debug\AgeRange.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\AgeRange\obj\Debug\AgeRange.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\AgeRange\obj\Debug\AgeRange.pdb

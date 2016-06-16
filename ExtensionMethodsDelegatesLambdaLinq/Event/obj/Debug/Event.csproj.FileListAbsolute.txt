@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\Event\bin\Debug\Event.exe.config
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\Event\bin\Debug\Event.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\Event\bin\Debug\Event.pdb
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\Event\obj\Debug\Event.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\Event\obj\Debug\Event.pdb

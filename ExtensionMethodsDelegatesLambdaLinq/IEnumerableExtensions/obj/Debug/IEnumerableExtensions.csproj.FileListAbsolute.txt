@@ -1,0 +1,5 @@
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe.config
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\IEnumerableExtensions\bin\Debug\IEnumerableExtensions.pdb
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\IEnumerableExtensions\obj\Debug\IEnumerableExtensions.pdb

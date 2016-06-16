@@ -1,0 +1,5 @@
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\DivisibleBy\bin\Debug\DivisibleBy.exe.config
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\DivisibleBy\bin\Debug\DivisibleBy.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\DivisibleBy\bin\Debug\DivisibleBy.pdb
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\DivisibleBy\obj\Debug\DivisibleBy.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\DivisibleBy\obj\Debug\DivisibleBy.pdb

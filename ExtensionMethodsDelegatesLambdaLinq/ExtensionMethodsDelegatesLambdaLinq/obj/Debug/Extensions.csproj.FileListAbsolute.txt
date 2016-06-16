@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\ExtensionMethodsDelegatesLambdaLinq\bin\Debug\ExtensionMethodsDelegatesLambdaLinq.exe.config
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\ExtensionMethodsDelegatesLambdaLinq\bin\Debug\ExtensionMethodsDelegatesLambdaLinq.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\ExtensionMethodsDelegatesLambdaLinq\bin\Debug\ExtensionMethodsDelegatesLambdaLinq.pdb
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\ExtensionMethodsDelegatesLambdaLinq\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\ExtensionMethodsDelegatesLambdaLinq\obj\Debug\ExtensionMethodsDelegatesLambdaLinq.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\ExtensionMethodsDelegatesLambdaLinq\obj\Debug\ExtensionMethodsDelegatesLambdaLinq.pdb

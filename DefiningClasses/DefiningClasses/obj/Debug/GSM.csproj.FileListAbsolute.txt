@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C#OOP\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+C:\Users\rados\Desktop\C#OOP\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.exe
+C:\Users\rados\Desktop\C#OOP\DefiningClasses\DefiningClasses\bin\Debug\DefiningClasses.pdb
+C:\Users\rados\Desktop\C#OOP\DefiningClasses\DefiningClasses\obj\Debug\GSM.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C#OOP\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.exe
+C:\Users\rados\Desktop\C#OOP\DefiningClasses\DefiningClasses\obj\Debug\DefiningClasses.pdb
