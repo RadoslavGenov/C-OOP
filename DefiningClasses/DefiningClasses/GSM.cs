@@ -4,18 +4,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GSM
+namespace Classes
 {
     class GSM
     {
-        static private GSM IPhone4S;
+        private static readonly GSM iphone4S = new GSM("IPhone", "Apple", 600, "Rado", new Battery("LiIon", 60, 60), new Display(500, 52000));
+        private List<Call> calls = new List<Call>();
         private string model;
         private string manufacturer;
         private int price;
         private string owner;
         private Battery battery;
         private Display display;
-        public GSM(string _model, string _manufacturer) 
+
+        public GSM IPhone4S { get; }
+        public List<Call> Calls
+        {
+            get
+            {
+                return new List<Call>(this.calls);
+            }
+        }
+
+        public GSM(string _model, string _manufacturer)
         {
             this.model = _model;
             this.manufacturer = _manufacturer;
@@ -33,6 +44,7 @@ namespace GSM
             this.battery = _battery;
             this.display = _display;
         }
+
         public override string ToString()
         {
             return string.Format(@"Model: {0}

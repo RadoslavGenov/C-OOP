@@ -8,7 +8,6 @@ namespace OrderBy
     {
         static void Main(string[] args)
         {
-
             var arr = new[] {
                     new { First = "Rado", Last = "Genov", Age = 35},
                     new { First = "Alex", Last = "Foster", Age = 20 },

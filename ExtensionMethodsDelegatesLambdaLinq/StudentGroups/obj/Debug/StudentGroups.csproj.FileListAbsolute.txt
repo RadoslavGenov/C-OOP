@@ -1,0 +1,6 @@
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\StudentGroups\bin\Debug\StudentGroups.exe.config
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\StudentGroups\bin\Debug\StudentGroups.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\StudentGroups\bin\Debug\StudentGroups.pdb
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\StudentGroups\obj\Debug\StudentGroups.csprojResolveAssemblyReference.cache
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\StudentGroups\obj\Debug\StudentGroups.exe
+C:\Users\rados\Desktop\C#OOP\ExtensionMethodsDelegatesLambdaLinq\StudentGroups\obj\Debug\StudentGroups.pdb
